@@ -1,0 +1,1756 @@
+[
+  {
+    "id": "e001",
+    "file": "images/1589389841862.jpeg",
+    "type": "image",
+    "width": 82,
+    "height": 80,
+    "title": "我有些嘴嗨",
+    "mood": [
+      "玩笑",
+      "吐槽"
+    ],
+    "scenes": [
+      "玩笑",
+      "吐槽"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1589389841862.jpeg",
+    "sha256": "209bd506731b6509980d19dd425a9c31cc4fdee4bac8f422a9ce252584553a19",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e002",
+    "file": "images/1589425443724.jpeg",
+    "type": "image",
+    "width": 150,
+    "height": 150,
+    "title": "不好意思我戏比较多",
+    "mood": [
+      "搞怪",
+      "自嘲"
+    ],
+    "scenes": [
+      "搞怪",
+      "自嘲"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1589425443724.jpeg",
+    "sha256": "b363f2b92a77663a79067ee6222815793f959b9ee3c2e0e738cb36af68d0a47d",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e003",
+    "file": "images/IMG_20200426_200415.jpg",
+    "type": "image",
+    "width": 400,
+    "height": 474,
+    "title": "柴犬问号",
+    "mood": [
+      "疑惑",
+      "震惊"
+    ],
+    "scenes": [
+      "疑惑",
+      "震惊"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/IMG_20200426_200415.jpg",
+    "sha256": "06a7eab2b76899ad0548c8bbc0ba084ec5b026f175937256c8bd83992dc124f1",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e004",
+    "file": "images/42e6594ac794ff26.jpg",
+    "type": "image",
+    "width": 1016,
+    "height": 834,
+    "title": "知识进不到脑子里去",
+    "mood": [
+      "学习",
+      "崩溃"
+    ],
+    "scenes": [
+      "学习",
+      "崩溃"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/42e6594ac794ff26.jpg",
+    "sha256": "08e7c6abed4022ef7642669c77514ddc2f805ebe62f7420e8090dca8c6955f05",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e005",
+    "file": "images/1589425530558.jpeg",
+    "type": "image",
+    "width": 120,
+    "height": 115,
+    "title": "打住打住",
+    "mood": [
+      "制止"
+    ],
+    "scenes": [
+      "制止"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1589425530558.jpeg",
+    "sha256": "9e28c24068d3e067515dff1b885bacba50bdfd4cd64cbcf6571bf6dced2e7fe2",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e006",
+    "file": "images/-c04f95405cee8c9.jpg",
+    "type": "image",
+    "width": 100,
+    "height": 82,
+    "title": "狗狗呆住",
+    "mood": [
+      "疑惑"
+    ],
+    "scenes": [
+      "疑惑"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/-c04f95405cee8c9.jpg",
+    "sha256": "a7a123d021998a5f50a8dafdbcdb8fc51976c33026fc138fb0c0cadd87131c77",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e007",
+    "file": "images/1591029793959.jpeg",
+    "type": "image",
+    "width": 78,
+    "height": 60,
+    "title": "小猫委屈",
+    "mood": [
+      "委屈",
+      "撒娇"
+    ],
+    "scenes": [
+      "委屈",
+      "撒娇"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1591029793959.jpeg",
+    "sha256": "88bb9d2a374e25528b553f571d77210fe7e30fd99b04f5631064015130e47e72",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e008",
+    "file": "images/1591462951939.jpeg",
+    "type": "image",
+    "width": 995,
+    "height": 995,
+    "title": "猫猫脸红尖叫",
+    "mood": [
+      "害羞",
+      "激动"
+    ],
+    "scenes": [
+      "害羞",
+      "激动"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1591462951939.jpeg",
+    "sha256": "5b6c848278007a2e6b81418e639d435871d02c13f39ed75c93757fe6f5448f38",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e009",
+    "file": "images/1591463078611.jpeg",
+    "type": "image",
+    "width": 320,
+    "height": 320,
+    "title": "让我给你分析分析",
+    "mood": [
+      "分析",
+      "搞怪"
+    ],
+    "scenes": [
+      "分析",
+      "搞怪"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1591463078611.jpeg",
+    "sha256": "cc89f271695f9b4d9c94704251f15cbd566100a22e2b581d5246a779722f1e31",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e010",
+    "file": "images/1591463096853.jpeg",
+    "type": "image",
+    "width": 659,
+    "height": 652,
+    "title": "可靠",
+    "mood": [
+      "认可",
+      "支持"
+    ],
+    "scenes": [
+      "认可",
+      "支持"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1591463096853.jpeg",
+    "sha256": "a72859c67dd073e27059339c1eae9ef1de9374c5e9d48bedaa63d972d17dac4a",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e011",
+    "file": "images/1591463087036.jpeg",
+    "type": "image",
+    "width": 690,
+    "height": 696,
+    "title": "期待的搓手手",
+    "mood": [
+      "期待"
+    ],
+    "scenes": [
+      "期待"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1591463087036.jpeg",
+    "sha256": "9317a44db74ceab73758cb10cb9e901e3d6b353c9dd849e10247f9404eb2c59d",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e012",
+    "file": "images/1591803854588.jpeg",
+    "type": "image",
+    "width": 640,
+    "height": 640,
+    "title": "我哪个晓得",
+    "mood": [
+      "不知道"
+    ],
+    "scenes": [
+      "不知道"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1591803854588.jpeg",
+    "sha256": "f655524c50980c5c155bd60949f73bacad17d856ea6195a6a1780e96160df604",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e013",
+    "file": "images/1593060117220.jpeg",
+    "type": "image",
+    "width": 160,
+    "height": 158,
+    "title": "你为了富婆动手打我",
+    "mood": [
+      "委屈",
+      "玩笑"
+    ],
+    "scenes": [
+      "委屈",
+      "玩笑"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1593060117220.jpeg",
+    "sha256": "f26b0ae49e88ac16c54a0e23026e3c802c0cc9df05f3649f4b937f3e570aa246",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e014",
+    "file": "images/48d54131047a2afb.png",
+    "type": "image",
+    "width": 300,
+    "height": 300,
+    "title": "你不配合我只能亲自动手了",
+    "mood": [
+      "玩笑",
+      "催促"
+    ],
+    "scenes": [
+      "玩笑",
+      "催促"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/48d54131047a2afb.png",
+    "sha256": "eccafd3e698c475d15fe76fd81277a0d112748af6b7f18677213786a5f3d180d",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e015",
+    "file": "images/13f792a6765db817.jpg",
+    "type": "image",
+    "width": 720,
+    "height": 712,
+    "title": "狗男人没一个信得过",
+    "mood": [
+      "吐槽"
+    ],
+    "scenes": [
+      "吐槽"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/13f792a6765db817.jpg",
+    "sha256": "a61ed5e92749e1279efcd64109d93843b03e75279ca19071ad3ad4f0d549ed28",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e016",
+    "file": "images/289150b1696d6fac.png",
+    "type": "image",
+    "width": 198,
+    "height": 198,
+    "title": "你起什么劲",
+    "mood": [
+      "吐槽"
+    ],
+    "scenes": [
+      "吐槽"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/289150b1696d6fac.png",
+    "sha256": "ebbeae517bbe2297b6adc747695b713c37386b40747020f5032c38c3a5615166",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e017",
+    "file": "images/1593326860406.jpeg",
+    "type": "image",
+    "width": 300,
+    "height": 300,
+    "title": "今天不是你死就是你死",
+    "mood": [
+      "发疯",
+      "玩笑"
+    ],
+    "scenes": [
+      "发疯",
+      "玩笑"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1593326860406.jpeg",
+    "sha256": "0cf5f6f1d339aa80a95afc04680bde5199afe503b27d24bb7068caa150b9665b",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e018",
+    "file": "images/1593327006865.jpeg",
+    "type": "image",
+    "width": 224,
+    "height": 224,
+    "title": "我玛卡巴卡不想理你",
+    "mood": [
+      "赌气"
+    ],
+    "scenes": [
+      "赌气"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1593327006865.jpeg",
+    "sha256": "e7ba6d3a7b01ce8f4421bfeada07c159a5779283010b6fbda7b6a6bee12f2b0d",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e019",
+    "file": "images/1593327024239.jpeg",
+    "type": "image",
+    "width": 67,
+    "height": 67,
+    "title": "举手的小人",
+    "mood": [
+      "回应"
+    ],
+    "scenes": [
+      "回应"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1593327024239.jpeg",
+    "sha256": "0fb188f39cd487670694fa9f5e0aafe2ff455989c35737b8afd2b91e55b5ed78",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e020",
+    "file": "images/1593327052100.jpeg",
+    "type": "image",
+    "width": 198,
+    "height": 184,
+    "title": "这是人打出来的字吗",
+    "mood": [
+      "震惊",
+      "无语"
+    ],
+    "scenes": [
+      "震惊",
+      "无语"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1593327052100.jpeg",
+    "sha256": "2f6dcf6db763e3230cce684c0d2f9138c4182e9fdde51ac08f244b692e5a51f5",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e021",
+    "file": "images/1593327079645.jpeg",
+    "type": "image",
+    "width": 99,
+    "height": 78,
+    "title": "叹气的漫画人物",
+    "mood": [
+      "叹气"
+    ],
+    "scenes": [
+      "叹气"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1593327079645.jpeg",
+    "sha256": "cb146eba527e0ec1253364aa1e704abaab57133875fe9c56481789ad4ffc3b79",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e022",
+    "file": "images/1593327316334.jpeg",
+    "type": "image",
+    "width": 198,
+    "height": 149,
+    "title": "魅力吸引富婆",
+    "mood": [
+      "得意",
+      "搞怪"
+    ],
+    "scenes": [
+      "得意",
+      "搞怪"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1593327316334.jpeg",
+    "sha256": "d5f41e7958cdc8988fcb0b35f8eda53268925bb724dfbacde7caf78353d6f30d",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e023",
+    "file": "images/1593327339766.jpeg",
+    "type": "image",
+    "width": 50,
+    "height": 50,
+    "title": "熊猫人疑惑",
+    "mood": [
+      "疑惑"
+    ],
+    "scenes": [
+      "疑惑"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1593327339766.jpeg",
+    "sha256": "0661d985148c9c0232d1ab6fa63f0cf481e02097025876e2d04a80377ddfe915",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e024",
+    "file": "images/-2ab836e6844f33ac.jpg",
+    "type": "image",
+    "width": 622,
+    "height": 622,
+    "title": "不会吧阿sir",
+    "mood": [
+      "震惊"
+    ],
+    "scenes": [
+      "震惊"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/-2ab836e6844f33ac.jpg",
+    "sha256": "23bd42b9f8e4f5af53594dc91505bf2b317c2ebe50f0ab28bd495b89ce936b25",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e025",
+    "file": "images/-285908a76bd606e0.jpg",
+    "type": "image",
+    "width": 84,
+    "height": 69,
+    "title": "说不出话",
+    "mood": [
+      "无语"
+    ],
+    "scenes": [
+      "无语"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/-285908a76bd606e0.jpg",
+    "sha256": "b14ffc67f57dbfcdcd0a0dea20afd066e359a8878e528bf6b13324eba615f626",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e026",
+    "file": "images/4f9d19f5ea602663.jpg",
+    "type": "image",
+    "width": 72,
+    "height": 66,
+    "title": "躺倒的小企鹅",
+    "mood": [
+      "疲惫"
+    ],
+    "scenes": [
+      "疲惫"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/4f9d19f5ea602663.jpg",
+    "sha256": "a0ef46c9f6dafd979893abb4ea74883f1d3f34122e3e47c46061c92cbc70b618",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e027",
+    "file": "images/-73bd7f5342af63d5.jpg",
+    "type": "image",
+    "width": 198,
+    "height": 172,
+    "title": "嘀咕嘀咕",
+    "mood": [
+      "碎碎念"
+    ],
+    "scenes": [
+      "碎碎念"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/-73bd7f5342af63d5.jpg",
+    "sha256": "87ccf05b48a4644c1e85f0228c2df25187daaa366d433b98527d03b34dd0a3a6",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e028",
+    "file": "images/1593702135325.jpeg",
+    "type": "image",
+    "width": 60,
+    "height": 60,
+    "title": "呸渣男",
+    "mood": [
+      "吐槽"
+    ],
+    "scenes": [
+      "吐槽"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1593702135325.jpeg",
+    "sha256": "d61612b3ad76c1875e4f1637237ac9c2a3e159a5cbc7c7d15fdc3129da3cb431",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e029",
+    "file": "images/1594395219755.jpeg",
+    "type": "image",
+    "width": 198,
+    "height": 100,
+    "title": "你长出息了是不是",
+    "mood": [
+      "调侃"
+    ],
+    "scenes": [
+      "调侃"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1594395219755.jpeg",
+    "sha256": "78e57462001c1cf801d5ba5657b8ac1c607e02c3eb16bb1dd36be506360258bb",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e030",
+    "file": "images/1594395233448.jpeg",
+    "type": "image",
+    "width": 48,
+    "height": 56,
+    "title": "嗯哼",
+    "mood": [
+      "回应"
+    ],
+    "scenes": [
+      "回应"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1594395233448.jpeg",
+    "sha256": "0b5770bc2bc5e512722c41925c92928176d06e2b13375f0b85cb3dc7a3b0dd04",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e031",
+    "file": "images/1594395243665.jpeg",
+    "type": "image",
+    "width": 48,
+    "height": 48,
+    "title": "我拒",
+    "mood": [
+      "拒绝"
+    ],
+    "scenes": [
+      "拒绝"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1594395243665.jpeg",
+    "sha256": "19e6bc1f1e9e01db15b8217fb4df7972ceccef84c9257f3f1bf71e6848c9aae7",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e032",
+    "file": "images/1594395282847.jpeg",
+    "type": "image",
+    "width": 48,
+    "height": 48,
+    "title": "乱线脑袋",
+    "mood": [
+      "崩溃"
+    ],
+    "scenes": [
+      "崩溃"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1594395282847.jpeg",
+    "sha256": "b4bec97bbb8ac3efb6bdfbe8dcd74523c626de9063a8fae254a3453350e09303",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e033",
+    "file": "images/1594395408657.jpeg",
+    "type": "image",
+    "width": 60,
+    "height": 60,
+    "title": "优秀",
+    "mood": [
+      "夸奖"
+    ],
+    "scenes": [
+      "夸奖"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1594395408657.jpeg",
+    "sha256": "9af4bf610dda716b657d788f0d230e1d29d78cd5c74c0b1b097117dffe6f646d",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e034",
+    "file": "images/1594400112784.jpeg",
+    "type": "image",
+    "width": 88,
+    "height": 96,
+    "title": "小卧槽你是否有很多朋友",
+    "mood": [
+      "疑惑",
+      "玩梗"
+    ],
+    "scenes": [
+      "疑惑",
+      "玩梗"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1594400112784.jpeg",
+    "sha256": "c0b04f24959bd9697797d9c686d8026a58a294345a0583a7413d41f5f11c40ba",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e035",
+    "file": "images/-4fbbc735d9523b27.jpg",
+    "type": "image",
+    "width": 690,
+    "height": 479,
+    "title": "你在教我做事",
+    "mood": [
+      "赌气",
+      "玩笑"
+    ],
+    "scenes": [
+      "赌气",
+      "玩笑"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/-4fbbc735d9523b27.jpg",
+    "sha256": "54beb3a1f479fc1fb90cc43b6e20af811c114cee21b10c73312f61e0a8b786e6",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e036",
+    "file": "images/1594719937479.jpeg",
+    "type": "image",
+    "width": 640,
+    "height": 589,
+    "title": "小羊迷茫",
+    "mood": [
+      "疑惑"
+    ],
+    "scenes": [
+      "疑惑"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1594719937479.jpeg",
+    "sha256": "b9942c278e2d1c6c31f2c4a4d61b35baa075039ccccde9d53b8c967646dd89be",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e037",
+    "file": "images/1594722333162.jpeg",
+    "type": "image",
+    "width": 98,
+    "height": 98,
+    "title": "试探",
+    "mood": [
+      "试探"
+    ],
+    "scenes": [
+      "试探"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1594722333162.jpeg",
+    "sha256": "5d34b3dd04f34e802e7cdeae548c59d5c1638c26b389181a88fee65a1643151f",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e038",
+    "file": "images/5595eba52a98c9b4.jpg",
+    "type": "image",
+    "width": 960,
+    "height": 907,
+    "title": "你根本不知道自己的处境",
+    "mood": [
+      "玩笑"
+    ],
+    "scenes": [
+      "玩笑"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/5595eba52a98c9b4.jpg",
+    "sha256": "a2de734aab9aeb52a6087a93885b5827fc3458806ac4e4e4bce4b66c27bf5780",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e039",
+    "file": "images/1596794382638.jpeg",
+    "type": "image",
+    "width": 200,
+    "height": 200,
+    "title": "我jio的OK",
+    "mood": [
+      "同意"
+    ],
+    "scenes": [
+      "同意"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1596794382638.jpeg",
+    "sha256": "2458f0d07bdea24537e02945158222530faf13489018367b112cea8aedada1a7",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e040",
+    "file": "images/1596736161123.jpeg",
+    "type": "image",
+    "width": 124,
+    "height": 93,
+    "title": "小企鹅爱心",
+    "mood": [
+      "喜欢",
+      "贴贴"
+    ],
+    "scenes": [
+      "喜欢",
+      "贴贴"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1596736161123.jpeg",
+    "sha256": "b4d31cd31e761f94ba39c8a321308b42e0c1949313e07c47d17db87ce8212d48",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e041",
+    "file": "images/-5c12ab5d58c3c3b3.jpg",
+    "type": "image",
+    "width": 268,
+    "height": 233,
+    "title": "小企鹅抱抱",
+    "mood": [
+      "安慰",
+      "抱抱"
+    ],
+    "scenes": [
+      "安慰",
+      "抱抱"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/-5c12ab5d58c3c3b3.jpg",
+    "sha256": "6fadb56ca6b68f7a08236f8d0da87a01e4a403ec43704658702ec74f6c0582e2",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e042",
+    "file": "gifs/-1a22c26679ce8869.gif",
+    "type": "gif",
+    "width": 48,
+    "height": 48,
+    "title": "小人委屈",
+    "mood": [
+      "委屈"
+    ],
+    "scenes": [
+      "委屈"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/gifs/-1a22c26679ce8869.gif",
+    "sha256": "0e7bfb2d20a3f75bced4a442246a06b2309ad4398dc135af6e20db9bd4d4f96b",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e043",
+    "file": "images/1599040463511.jpeg",
+    "type": "image",
+    "width": 800,
+    "height": 586,
+    "title": "24小时一天根本不够睡啊",
+    "mood": [
+      "困倦"
+    ],
+    "scenes": [
+      "困倦"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1599040463511.jpeg",
+    "sha256": "9f0fc759013354bfa0462655d7d5de4a7702377e56a42b28251567f109f95c50",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e044",
+    "file": "images/9c5031cee95f32.png",
+    "type": "image",
+    "width": 300,
+    "height": 300,
+    "title": "啾咪",
+    "mood": [
+      "亲亲"
+    ],
+    "scenes": [
+      "亲亲"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/9c5031cee95f32.png",
+    "sha256": "fa56c388a27d945c327b58582b0a4791e4d55e001eb19ab8f8e0fc2c558a910b",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e045",
+    "file": "images/1599607780749.jpeg",
+    "type": "image",
+    "width": 440,
+    "height": 440,
+    "title": "遇到困难睡大觉",
+    "mood": [
+      "疲惫",
+      "自嘲"
+    ],
+    "scenes": [
+      "疲惫",
+      "自嘲"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1599607780749.jpeg",
+    "sha256": "7c396623b32ef4e5e26633156e63d128b0c693a3908810fbb6389bd1015230d6",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e046",
+    "file": "images/3099e0c65418ed86.png",
+    "type": "image",
+    "width": 73,
+    "height": 78,
+    "title": "风中凌乱",
+    "mood": [
+      "无语"
+    ],
+    "scenes": [
+      "无语"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/3099e0c65418ed86.png",
+    "sha256": "88aad6e62f59e165d4f29a3045055ad77fb3339752d431a46827a2c5668f38ee",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e047",
+    "file": "images/1599626941400.jpeg",
+    "type": "image",
+    "width": 537,
+    "height": 480,
+    "title": "唉呀呀呀",
+    "mood": [
+      "惊讶"
+    ],
+    "scenes": [
+      "惊讶"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1599626941400.jpeg",
+    "sha256": "fdbb48092c144c995ea534d88d5f3408a0b7ff57cdab3a8e2d4b340aae180eaa",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e048",
+    "file": "images/Screenshot_2020_0909_231735.png",
+    "type": "image",
+    "width": 858,
+    "height": 836,
+    "title": "愣住",
+    "mood": [
+      "震惊"
+    ],
+    "scenes": [
+      "震惊"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/Screenshot_2020_0909_231735.png",
+    "sha256": "7e0c662d74b27e9eb36e0cc5f225bf826148625601b800e92d614d21d30132f2",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e049",
+    "file": "images/Screenshot_2020_0909_231806.png",
+    "type": "image",
+    "width": 869,
+    "height": 867,
+    "title": "放过我好吗",
+    "mood": [
+      "求饶"
+    ],
+    "scenes": [
+      "求饶"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/Screenshot_2020_0909_231806.png",
+    "sha256": "978711ff4a5efc0259e2bdf6eb1efaf4a4e05cd92c2a8aa157040c0fcec4f60e",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e050",
+    "file": "images/1599921928936.jpeg",
+    "type": "image",
+    "width": 129,
+    "height": 58,
+    "title": "我想拥有这种图",
+    "mood": [
+      "期待"
+    ],
+    "scenes": [
+      "期待"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1599921928936.jpeg",
+    "sha256": "bec9216745d857fe0b77ee5cab692d7c687c0cd3c2a15f2560efc6829115e37e",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e051",
+    "file": "images/1599921946258.jpeg",
+    "type": "image",
+    "width": 58,
+    "height": 48,
+    "title": "生气举刀小人",
+    "mood": [
+      "生气",
+      "玩笑"
+    ],
+    "scenes": [
+      "生气",
+      "玩笑"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1599921946258.jpeg",
+    "sha256": "f72e0baa216bff90a545b6f0fe613c81ca8aede1d2a01d6987c5e68568787dde",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e052",
+    "file": "images/1599922028665.jpeg",
+    "type": "image",
+    "width": 82,
+    "height": 61,
+    "title": "眼泪汪汪",
+    "mood": [
+      "委屈"
+    ],
+    "scenes": [
+      "委屈"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1599922028665.jpeg",
+    "sha256": "2a7df269f798aa8a224de12ada5ed4df7a13d9a4ff554171808fc82757667e95",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e053",
+    "file": "images/1599922035863.jpeg",
+    "type": "image",
+    "width": 50,
+    "height": 50,
+    "title": "举枪的小人",
+    "mood": [
+      "发疯",
+      "玩笑"
+    ],
+    "scenes": [
+      "发疯",
+      "玩笑"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1599922035863.jpeg",
+    "sha256": "2aedb7e4ef85e2bf84304e84b63e0e2f88a4e669a0f79a859041dc559e48daba",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e054",
+    "file": "images/1599922042687.jpeg",
+    "type": "image",
+    "width": 60,
+    "height": 74,
+    "title": "嗨小姐姐",
+    "mood": [
+      "打招呼"
+    ],
+    "scenes": [
+      "打招呼"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1599922042687.jpeg",
+    "sha256": "6b926f0e9ee21cd91f8bc649e86f5c1c15df6840135a0337a80cd7efdfad2061",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e055",
+    "file": "images/1599922106810.jpeg",
+    "type": "image",
+    "width": 71,
+    "height": 94,
+    "title": "憋着小情绪",
+    "mood": [
+      "赌气"
+    ],
+    "scenes": [
+      "赌气"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1599922106810.jpeg",
+    "sha256": "0f91b73f53ac61563922e9d093daf501c785ed19f1d046dee3e715319bf79b2d",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e056",
+    "file": "images/1599922128456.jpeg",
+    "type": "image",
+    "width": 45,
+    "height": 45,
+    "title": "滑稽小企鹅",
+    "mood": [
+      "搞怪"
+    ],
+    "scenes": [
+      "搞怪"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1599922128456.jpeg",
+    "sha256": "7e9cd81b6ed27544100cd72ba15958bc139baef78971f54bbc902f7e0a9002dc",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e057",
+    "file": "images/1599922190847.jpeg",
+    "type": "image",
+    "width": 120,
+    "height": 65,
+    "title": "吃个包子别闹了",
+    "mood": [
+      "安抚",
+      "玩笑"
+    ],
+    "scenes": [
+      "安抚",
+      "玩笑"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1599922190847.jpeg",
+    "sha256": "9dabc7de8922a7661909b7126fcb5b396b49cd79ce27553c1cc0e5c23e7342d6",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e058",
+    "file": "images/1599922210982.jpeg",
+    "type": "image",
+    "width": 64,
+    "height": 64,
+    "title": "躲进小被几",
+    "mood": [
+      "躲藏"
+    ],
+    "scenes": [
+      "躲藏"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1599922210982.jpeg",
+    "sha256": "0e28d7292bc22ac8ff1c42d8bc55a04e1232a8be55d096c3dc88fecd0f2f69d2",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e059",
+    "file": "images/1599922261129.jpeg",
+    "type": "image",
+    "width": 69,
+    "height": 76,
+    "title": "失礼了",
+    "mood": [
+      "道歉"
+    ],
+    "scenes": [
+      "道歉"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1599922261129.jpeg",
+    "sha256": "82c84adb603df5a62f04fa3879f8302488e7e6b6f6ca4880358a3bae49127416",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e060",
+    "file": "images/1599922324371.jpeg",
+    "type": "image",
+    "width": 75,
+    "height": 67,
+    "title": "不愿面对",
+    "mood": [
+      "逃避"
+    ],
+    "scenes": [
+      "逃避"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1599922324371.jpeg",
+    "sha256": "060c4dc2f7d3ba801ac428062d30f1e573efe9b1c2270845668cca70b99abf71",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e061",
+    "file": "images/1599922343947.jpeg",
+    "type": "image",
+    "width": 50,
+    "height": 50,
+    "title": "小人沉思",
+    "mood": [
+      "思考"
+    ],
+    "scenes": [
+      "思考"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1599922343947.jpeg",
+    "sha256": "16b238d5e8c84b2e1546195364c03ccfd4490ea78cd3c499d4ac953258363291",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e062",
+    "file": "images/1599922346675.jpeg",
+    "type": "image",
+    "width": 96,
+    "height": 50,
+    "title": "小人冒烟",
+    "mood": [
+      "崩溃"
+    ],
+    "scenes": [
+      "崩溃"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1599922346675.jpeg",
+    "sha256": "208c4c6d690abf47abecbf94c969950757e2e70305df849b93d6a37481e82b77",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e063",
+    "file": "images/1600179990711.jpeg",
+    "type": "image",
+    "width": 134,
+    "height": 120,
+    "title": "生活太难了叭",
+    "mood": [
+      "疲惫"
+    ],
+    "scenes": [
+      "疲惫"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1600179990711.jpeg",
+    "sha256": "668fc6aa920bf7bd7ace0102befc6121bf7980b30413abcd44bac156cb145bf0",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e064",
+    "file": "images/1600250867161.jpeg",
+    "type": "image",
+    "width": 52,
+    "height": 50,
+    "title": "痛哭",
+    "mood": [
+      "难过"
+    ],
+    "scenes": [
+      "难过"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1600250867161.jpeg",
+    "sha256": "0171b49441f368d3f8d3e293437195cd7daf490614db54b31a2203027b4b6da3",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e065",
+    "file": "images/1600250922499.jpeg",
+    "type": "image",
+    "width": 62,
+    "height": 73,
+    "title": "毕加思索",
+    "mood": [
+      "思考"
+    ],
+    "scenes": [
+      "思考"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1600250922499.jpeg",
+    "sha256": "e71e4a9ba02931112370ab264858930a2d06dcd055eac9c36a5561fb083da6ee",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e066",
+    "file": "images/1600250931670.jpeg",
+    "type": "image",
+    "width": 98,
+    "height": 120,
+    "title": "浓缩",
+    "mood": [
+      "呆滞"
+    ],
+    "scenes": [
+      "呆滞"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1600250931670.jpeg",
+    "sha256": "8a6b531856e540ed5b3efdf5de5d1edefc749dea8971cf895467c9e6740ca3a1",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e067",
+    "file": "images/1600250961632.jpeg",
+    "type": "image",
+    "width": 198,
+    "height": 158,
+    "title": "脸红亲亲",
+    "mood": [
+      "亲亲"
+    ],
+    "scenes": [
+      "亲亲"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1600250961632.jpeg",
+    "sha256": "3f83f4006511816b2243610c5f8a969eb6fa3fc6bb922610bd4996e1b9a03da1",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e068",
+    "file": "images/1600250985769.jpeg",
+    "type": "image",
+    "width": 50,
+    "height": 40,
+    "title": "熊猫人喝饮料",
+    "mood": [
+      "围观"
+    ],
+    "scenes": [
+      "围观"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1600250985769.jpeg",
+    "sha256": "75e375562d70a3345694fd05b88a3ee662a32c8dd5c8838b0f1ed7dab7a2c3bd",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e069",
+    "file": "images/1600251039844.jpeg",
+    "type": "image",
+    "width": 50,
+    "height": 50,
+    "title": "挖藕",
+    "mood": [
+      "惊讶"
+    ],
+    "scenes": [
+      "惊讶"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1600251039844.jpeg",
+    "sha256": "4615ff991ff3468b94280ab79e605a0ec86ec18f5954527e805e7a79fdd718cb",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e070",
+    "file": "images/1600251179348.jpeg",
+    "type": "image",
+    "width": 91,
+    "height": 61,
+    "title": "趴会儿",
+    "mood": [
+      "休息"
+    ],
+    "scenes": [
+      "休息"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1600251179348.jpeg",
+    "sha256": "9d5eda340ef66f4e2d0050516a488152d748f55fda9a2039218137e9bd06887e",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e071",
+    "file": "images/1600251184101.jpeg",
+    "type": "image",
+    "width": 78,
+    "height": 78,
+    "title": "钻进纸箱",
+    "mood": [
+      "躲藏"
+    ],
+    "scenes": [
+      "躲藏"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1600251184101.jpeg",
+    "sha256": "a452aa030d96a575fe9a2294e483969b55bb7c2345fc01e08f5b36f143a4a090",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e072",
+    "file": "images/1600251272162.jpeg",
+    "type": "image",
+    "width": 1080,
+    "height": 1080,
+    "title": "我不是我没有别瞎说",
+    "mood": [
+      "否认",
+      "慌张"
+    ],
+    "scenes": [
+      "否认",
+      "慌张"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1600251272162.jpeg",
+    "sha256": "2befce5cae7f9d132a6f0e5c06f5b347095a78f3c4c6ade4156597ca3dae7c75",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e073",
+    "file": "images/1600251316557.jpeg",
+    "type": "image",
+    "width": 580,
+    "height": 580,
+    "title": "汪",
+    "mood": [
+      "搞怪"
+    ],
+    "scenes": [
+      "搞怪"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1600251316557.jpeg",
+    "sha256": "f8c14fd24b14ef03e7feab75ab00746eabded0756ddf5225f057554ce17f0894",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e074",
+    "file": "images/1600251341598.jpeg",
+    "type": "image",
+    "width": 94,
+    "height": 114,
+    "title": "耍赖",
+    "mood": [
+      "撒娇"
+    ],
+    "scenes": [
+      "撒娇"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1600251341598.jpeg",
+    "sha256": "9ea45e4d6521173f50a0bb7a3339d9c7f934115567f88af6f5c28861fd53fed5",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e075",
+    "file": "images/1600704437239.jpeg",
+    "type": "image",
+    "width": 87,
+    "height": 60,
+    "title": "小人惊讶",
+    "mood": [
+      "惊讶"
+    ],
+    "scenes": [
+      "惊讶"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1600704437239.jpeg",
+    "sha256": "cd92e4a74c97ae5047721a5516cc96e4928d620bc41fce2d605d8c7825fd54ce",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e076",
+    "file": "images/1600863686175.jpeg",
+    "type": "image",
+    "width": 186,
+    "height": 198,
+    "title": "脏话",
+    "mood": [
+      "生气",
+      "吐槽"
+    ],
+    "scenes": [
+      "生气",
+      "吐槽"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1600863686175.jpeg",
+    "sha256": "ff936f7c58afd12166dc5cf53f887e85761df0346457e9687de6fcf2b791e7c4",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e077",
+    "file": "images/1600863690836.jpeg",
+    "type": "image",
+    "width": 198,
+    "height": 179,
+    "title": "想不到吧",
+    "mood": [
+      "得意"
+    ],
+    "scenes": [
+      "得意"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1600863690836.jpeg",
+    "sha256": "f56b254bb9f8477a82fa76ca6d55753609c8ab75decff08cd95cda4f9d961c09",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e078",
+    "file": "images/1603176772219.jpeg",
+    "type": "image",
+    "width": 90,
+    "height": 82,
+    "title": "绝望的眼神",
+    "mood": [
+      "绝望"
+    ],
+    "scenes": [
+      "绝望"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1603176772219.jpeg",
+    "sha256": "0012bc1125070ef2bd52d6ae27d22c33a46b0929f5ac253a674636898ff56361",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e079",
+    "file": "images/1610499859729.jpeg",
+    "type": "image",
+    "width": 198,
+    "height": 152,
+    "title": "猫猫星星眼",
+    "mood": [
+      "期待"
+    ],
+    "scenes": [
+      "期待"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1610499859729.jpeg",
+    "sha256": "90db7fb0b5ad7e095f5a02ed1fa513426bd28892ddb0af03dce4a3bca2d1ed52",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e080",
+    "file": "images/1615339490341.jpeg",
+    "type": "image",
+    "width": 690,
+    "height": 690,
+    "title": "我已经气饱了",
+    "mood": [
+      "生气"
+    ],
+    "scenes": [
+      "生气"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1615339490341.jpeg",
+    "sha256": "1ca39960db5ad32c3e5fe31f34fc7402ee1230f92c6dbe5ba84f8d758822db1b",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e081",
+    "file": "images/1612688836275.jpeg",
+    "type": "image",
+    "width": 1080,
+    "height": 1068,
+    "title": "恰饭咯",
+    "mood": [
+      "吃饭"
+    ],
+    "scenes": [
+      "吃饭"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1612688836275.jpeg",
+    "sha256": "29c46dce231975ebe211980961597118ad279a221716851a9bd2359bff789ac0",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e082",
+    "file": "images/1615339257418.jpeg",
+    "type": "image",
+    "width": 690,
+    "height": 675,
+    "title": "小猫咪的孤独",
+    "mood": [
+      "孤独"
+    ],
+    "scenes": [
+      "孤独"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1615339257418.jpeg",
+    "sha256": "555953625dd1b0e2d42805d0ba49beb26c13f02d8367a7689b0a9895f2594e0c",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e083",
+    "file": "images/Screenshot_2021_0422_154151.png",
+    "type": "image",
+    "width": 961,
+    "height": 1109,
+    "title": "我太难了",
+    "mood": [
+      "崩溃"
+    ],
+    "scenes": [
+      "崩溃"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/Screenshot_2021_0422_154151.png",
+    "sha256": "03c809cc20985207b1644ed4e48e144c810c8e58bc469fb40c479f1cd6dee93a",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e084",
+    "file": "images/1620631087977.jpeg",
+    "type": "image",
+    "width": 1080,
+    "height": 1048,
+    "title": "看上去在思考其实脑瓜一片空白",
+    "mood": [
+      "呆滞"
+    ],
+    "scenes": [
+      "呆滞"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1620631087977.jpeg",
+    "sha256": "3b17c27c8ef5315b08c025fdce6d8c5d0e9cfa59b1ca054b67c5e6af221762ca",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e085",
+    "file": "images/1620363315414.jpeg",
+    "type": "image",
+    "width": 687,
+    "height": 687,
+    "title": "找个牢坐吧",
+    "mood": [
+      "吐槽",
+      "玩笑"
+    ],
+    "scenes": [
+      "吐槽",
+      "玩笑"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1620363315414.jpeg",
+    "sha256": "347bd61f911d812ff3624a39755d27992acb601fd9c1f446f2af40f494d046d9",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e086",
+    "file": "images/1622858934221.jpeg",
+    "type": "image",
+    "width": 440,
+    "height": 440,
+    "title": "我去诧你",
+    "mood": [
+      "吐槽"
+    ],
+    "scenes": [
+      "吐槽"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1622858934221.jpeg",
+    "sha256": "ffe0e37ccc01bc470ff518586b5b03e729ffe5765043a845b6d7ba5f2bfe5fb6",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e087",
+    "file": "images/214c2c02bd7fcf8c.jpg",
+    "type": "image",
+    "width": 60,
+    "height": 64,
+    "title": "熊猫人微笑",
+    "mood": [
+      "搞怪"
+    ],
+    "scenes": [
+      "搞怪"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/214c2c02bd7fcf8c.jpg",
+    "sha256": "bad52218d192950d176e0096624388ee6d199338f9529ea5cbfbfb8e93abb795",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e088",
+    "file": "images/Screenshot_2021_0620_143535.png",
+    "type": "image",
+    "width": 225,
+    "height": 297,
+    "title": "动漫女孩呆住",
+    "mood": [
+      "惊讶"
+    ],
+    "scenes": [
+      "惊讶"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/Screenshot_2021_0620_143535.png",
+    "sha256": "8dcebbb7c7913f0a733ae738aad11035cbdc9d882d382c6927e9f1c18da3ad48",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e089",
+    "file": "images/1624554447209.jpeg",
+    "type": "image",
+    "width": 2560,
+    "height": 1822,
+    "title": "全家人对你非常失望",
+    "mood": [
+      "吐槽",
+      "玩笑"
+    ],
+    "scenes": [
+      "吐槽",
+      "玩笑"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1624554447209.jpeg",
+    "sha256": "c05e8a6123d1e6cff2a360cb92f23e13d8de0c17d04c6c6dacef3796cb926a2d",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e090",
+    "file": "images/Screenshot_2021_0719_130043.png",
+    "type": "image",
+    "width": 492,
+    "height": 467,
+    "title": "是我不帅吗",
+    "mood": [
+      "撒娇",
+      "自恋"
+    ],
+    "scenes": [
+      "撒娇",
+      "自恋"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/Screenshot_2021_0719_130043.png",
+    "sha256": "fdb5aade3388801c4e58387776b6c57e055b96e656e4b4ae369a5ae716b5f1ee",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e091",
+    "file": "images/2daf939fde2ffc08.jpg",
+    "type": "image",
+    "width": 198,
+    "height": 198,
+    "title": "早什么早现在才起",
+    "mood": [
+      "早安",
+      "调侃"
+    ],
+    "scenes": [
+      "早安",
+      "调侃"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/2daf939fde2ffc08.jpg",
+    "sha256": "c1121bc45c3d616d3132a00a08fa4f871c60fda1f2e74ef2f346b14ddc920119",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e092",
+    "file": "images/Screenshot_2021_1004_005723.png",
+    "type": "image",
+    "width": 745,
+    "height": 776,
+    "title": "贴贴",
+    "mood": [
+      "贴贴"
+    ],
+    "scenes": [
+      "贴贴"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/Screenshot_2021_1004_005723.png",
+    "sha256": "85d8417dde03a441478cf392d39b106173979842e4c8ef1943934a21f74791fb",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e093",
+    "file": "images/60da5c1a907786fb.jpg",
+    "type": "image",
+    "width": 240,
+    "height": 240,
+    "title": "申请色色",
+    "mood": [
+      "调情"
+    ],
+    "scenes": [
+      "调情"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/60da5c1a907786fb.jpg",
+    "sha256": "00ad156c9ed38557bc43d73d94c583dd9066742953177ba380e195790cc0fd2b",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e094",
+    "file": "images/-3e67fcf17bbc5062.jpg",
+    "type": "image",
+    "width": 800,
+    "height": 766,
+    "title": "垮起个小批脸",
+    "mood": [
+      "赌气"
+    ],
+    "scenes": [
+      "赌气"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/-3e67fcf17bbc5062.jpg",
+    "sha256": "ed7fc991a4bdc1ac32d45975b1d4df9a8d62812bc18685c326c0368d93c34ff6",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e095",
+    "file": "images/Screenshot_2021_1201_194330.png",
+    "type": "image",
+    "width": 741,
+    "height": 759,
+    "title": "无能狂怒",
+    "mood": [
+      "生气"
+    ],
+    "scenes": [
+      "生气"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/Screenshot_2021_1201_194330.png",
+    "sha256": "f2a90a4d44c536cfec73cacdb74ad885814eddb522536b137aa55e2cf660a141",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e096",
+    "file": "images/Pic_1639933811203.jpg",
+    "type": "image",
+    "width": 440,
+    "height": 440,
+    "title": "支棱起来了",
+    "mood": [
+      "振作"
+    ],
+    "scenes": [
+      "振作"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/Pic_1639933811203.jpg",
+    "sha256": "9eff5d6dbedff45b51c95a029a362b532f98b946a7c9e023cbd1c93c1b7240e6",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e097",
+    "file": "images/-232e5cfac33cf56e.jpg",
+    "type": "image",
+    "width": 114,
+    "height": 104,
+    "title": "漫画痛哭",
+    "mood": [
+      "难过"
+    ],
+    "scenes": [
+      "难过"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/-232e5cfac33cf56e.jpg",
+    "sha256": "2b3e77d2a10cd893a35ae16e0257d099ca6e8f6c0999538665ef55d94026261a",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e098",
+    "file": "images/-f4e8c5b4a6a95e5.jpg",
+    "type": "image",
+    "width": 700,
+    "height": 756,
+    "title": "窒息",
+    "mood": [
+      "崩溃"
+    ],
+    "scenes": [
+      "崩溃"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/-f4e8c5b4a6a95e5.jpg",
+    "sha256": "a6ace578aff58dce1c0adfb45aa0d2597595953c6b1e55d0fadc57763fa5f2f6",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e099",
+    "file": "images/1645604224771.jpeg.png",
+    "type": "image",
+    "width": 48,
+    "height": 48,
+    "title": "小熊低头",
+    "mood": [
+      "害羞"
+    ],
+    "scenes": [
+      "害羞"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1645604224771.jpeg.png",
+    "sha256": "6e17e4a4887016aad945cb8fd8c065c216c8bc1cee6df8e4b6a5cd4db7f7aefe",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  },
+  {
+    "id": "e100",
+    "file": "images/1646486727143.jpeg",
+    "type": "image",
+    "width": 72,
+    "height": 64,
+    "title": "不知所措",
+    "mood": [
+      "迷茫"
+    ],
+    "scenes": [
+      "迷茫"
+    ],
+    "url": "https://raw.githubusercontent.com/yuyun-akf/chat-memes/main/images/1646486727143.jpeg",
+    "sha256": "61ad1e2c4d2461d00358fc95cd3bd6f5ec2b95596ba7e6005091db10c43b48a6",
+    "notes": "根据图像人工标注；标题可能为画面概括，不保证逐字转录。"
+  }
+]
